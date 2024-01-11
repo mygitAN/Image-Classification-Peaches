@@ -1,2 +1,1 @@
-# Image-Classification-Peaches
-Image Classification Peaches
+For this project, I had images of different peaches, conforming (good) and non-conforming(bad/damaged/rotten) the idea is to build a model that can be used to classify the peaches into conforming and non-conforming categories.
